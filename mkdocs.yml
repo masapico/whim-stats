@@ -5,5 +5,7 @@ site_dir: docs
 
 theme:
   name: material
-  pallete:
-    accent: blue
+  palette:
+    primary: green
+    accent: red
+
