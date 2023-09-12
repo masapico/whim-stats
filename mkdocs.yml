@@ -9,3 +9,9 @@ theme:
     primary: green
     accent: red
 
+feature:
+  tabs: true
+
+nav:
+  - Home: index.md
+  - Stats: stats.md
