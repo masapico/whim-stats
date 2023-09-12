@@ -1,17 +1,8 @@
-# Welcome to 気まぐれスタッツ
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+- 気になったデータを集めて可視化するサイト
+- 完全な気まぐれなので特にこだわりはありません
 
-## Commands
+## 利用しているデータについて
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- 基本的にはオープンデータを利用しており、詳細は各データの出典に記載しています
