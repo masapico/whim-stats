@@ -3,7 +3,7 @@
 テストページ
 
 
-<script src='../js/chart.js'></script>
+<script src='../chart.js'></script>
 
 <div>
   <canvas id="myChart"></canvas>

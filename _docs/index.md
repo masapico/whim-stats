@@ -25,7 +25,7 @@
 
 -----------------
 
-<script src='./stats/js/chart.js'></script>
+<script src='./stats/chart.js'></script>
 
 <div>
   <canvas id="myChart"></canvas>
